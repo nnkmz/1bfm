@@ -1,0 +1,11 @@
+{
+  "name": "1bfm",
+  "version": "1.0.0",
+  "description": "Projek 1BFM",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
